@@ -1,7 +1,7 @@
 
 ![](pics/first.png)
 
-`DATA VISUALIZATION` *offer an instant, one-click service for people to buy `properties` and then rent them. The company wants to have a trial of this offering in the San Francisco real-estate market. If the service proves popular, they can then expand to other markets. Your job is to use your data visualization skills, including aggregation, **interactive visualizations**, and `geospatial` analysis, to find properties in the San Francisco market that are viable investment opportunities*.
+`DATA VISUALIZATION` Our company *offer an instant, one-click service for people to buy `properties` and then rent them. The company wants to have a trial of this offering in the San Francisco real-estate market. If the service proves popular, they can then expand to other markets. Your job is to use your data visualization skills, including aggregation, **interactive visualizations**, and `geospatial` analysis, to find properties in the San Francisco market that are viable investment opportunities*.
 
 [CLICK HERE](https://www.tableau.com/learn/articles/data-visualization) to learn more about `DATA VISUALIZATION` 🧠
 
